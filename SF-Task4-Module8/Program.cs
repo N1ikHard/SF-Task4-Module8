@@ -52,7 +52,6 @@ namespace FinalTask
                         sw.WriteLine("Имя:" + s.Name + " Дата рождения:" + s.DateOfBirth);
                     }
                 }
-                Console.WriteLine($"Имя:{s.Name} Группа:{s.Group} ДР:{s.DateOfBirth}") ;
             }
         }
     }
